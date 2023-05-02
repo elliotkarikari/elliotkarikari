@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub Page. Here's alittle bit of information about me ...
 
 - 🔭 I’m currently working on a secrete project. Has to do with store products ! Hush !!
 - 🌱 I’m currently learning lots of python... I need a deep dive in Machine Learning and AI. I've can currently swim in the kiddie pool of ML 
