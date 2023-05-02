@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**elliotkarikari/elliotkarikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a secrete project. Has to do with store products ! Hush !!
@@ -10,4 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with everything ML and AI
 - 📫 How to reach me: https://www.linkedin.com/in/elliot-karikari-enk/
 - 😄 Pronouns: He/Him
--->
+
