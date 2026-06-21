@@ -36,3 +36,6 @@ Spatial decision-support systems · Public health analytics · Environmental exp
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-karikari-enk/).
 
+
+> Pinned repositories highlight my original and portfolio-ready work. Other public repositories may include forks, learning projects, archived references, and technical practice.
+
