@@ -26,7 +26,7 @@ My work focuses on turning complex real-world data into practical evidence for u
 
 ---
 
-## <img src="assets/eaa4a094-254b-4802-9c59-79e61732507b.png" width="40" /> Current interests
+## <img src="assets/4c5fd802-bd4d-45a2-ade3-82e2b7feec2d.png" width="40" /> Current interests
 
 Spatial decision-support systems · Public health analytics · Environmental exposure · Geodemographics · Human behavior · AI-assisted research workflows · Social-impact data systems
 
