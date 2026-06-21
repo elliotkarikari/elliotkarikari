@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Elliot Karikari
-
 I am a data scientist and spatial analyst working at the intersection of geospatial analytics, public health, mobility, evaluation, and decision-support systems.
 
 My work focuses on turning complex datasets into practical evidence: movement behavior, health and nutrition data, social vulnerability, environmental exposure, and public-sector decision-making.
