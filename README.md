@@ -6,7 +6,7 @@ My work focuses on turning complex real-world data into practical evidence for u
 
 ---
 
-<img src="assets/ChatGPT Image Jun 20, 2026, 11_05_07 PM.png" />  
+<img src="assets/ChatGPT Image Jun 20, 2026, 11_05_07 PM.png" width="24" />  
 ## What I build
 
 * Spatial analysis workflows for mobility, access, deprivation, and environmental questions
@@ -17,7 +17,7 @@ My work focuses on turning complex real-world data into practical evidence for u
 
 ---
 
-## <img src="assets/pin-brain-icon.png" width="24" /> Tools
+## <assets/185a27a6-245c-4374-99be-1f3dab05dc7e.png width="24" /> Tools
 
 **Programming and data:** Python · Pandas · NumPy · SQL · Jupyter
 **Geospatial:** GeoPandas · ArcGIS Pro · QGIS · Spatial statistics · Accessibility analysis
