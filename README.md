@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 I am a data scientist and spatial analyst working across geospatial analytics, public health, mobility, evaluation, and decision-support systems.
 
