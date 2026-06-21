@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="assets/globe-paper-icon.png" width="120" alt="Paper-style globe icon" />
+  <img src="assets/ChatGPT Image Jun 20, 2026, 11_05_07 PM.png" width="120" alt="Paper-style globe icon" />
 </p>
 
 # Elliot Karikari
