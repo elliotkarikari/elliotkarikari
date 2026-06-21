@@ -6,7 +6,7 @@ My work focuses on turning complex real-world data into practical evidence for u
 
 ---
 
-## <img src="assets/ChatGPT Image Jun 20, 2026, 11_05_07 PM.png" width="40" /> What I build
+## <img src="assets/paper-craft-design-globe-icon.jpg" width="40" /> What I build
 
 * Spatial analysis workflows for mobility, access, deprivation, and environmental questions
 * Data pipelines that clean, standardize, and transform messy datasets into usable analytical products
